@@ -1,0 +1,60 @@
+.eqcenten{
+    float: left;
+  border: 1px dotted black;
+  margin: 0px 0px 15px 20px;
+ 
+    
+}
+
+.eqfont{
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   margin-left: 25%;
+}
+
+.eqfont2{
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   margin-left: 4%;
+}
+
+.eqcenten2{
+    float: right;
+  border: 1px dotted black;
+  margin: 0px 0px 15px 20px;
+    
+}
+
+
+.fteam1{
+  float: left;
+  border: 0px dotted black;
+  margin: 0px 0px 15px 400px;
+}
+.atxt{
+  text-align: center;
+}
+
+.fteam2{
+  float: right;
+  border: 0px dotted black;
+  margin: 0px 400px 15px 0px;
+}
+
+
+.ctxt{
+  text-align: center;
+  font-size: x-large;
+  
+}
+
+
+
+.cteam{
+  float: left;
+  border: 0px dotted black;
+  margin: 10px 0px 15px 120px;
+  
+  
+}
+
